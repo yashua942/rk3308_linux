@@ -1,0 +1,17 @@
+# 忽略编译输出
+output/
+out/
+rockdev/
+
+# 忽略下载缓存
+buildroot/dl/
+dl/
+
+# 忽略 IDE 和系统文件
+.vscode/
+.DS_Store
+
+# 忽略大文件扩展名
+*.tar.gz
+*.zip
+*.img
